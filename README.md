@@ -32,8 +32,8 @@ Users can:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [Solution at Frontend Mentor](https://www.frontendmentor.io/solutions/news-homepage-qZ6ldwo5d8)
+-   Live Site URL: [Live Site](https://kaustubhmaladkar.github.io/News-Homepage/)
 
 ## My process
 
