@@ -64,10 +64,5 @@ I would like to continue learning about CSS transitions, transforms and grid-are
 
 ## Author
 
--   Website - [Add your name here](https://www.your-site.com)
--   Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
--   Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-```
-
-```
+-   Discord - [@KaustubhMaladkar](https://discord.com/users/879677662795280445)
+-   Frontend Mentor - [@KaustubhMaladkar](https://www.frontendmentor.io/profile/KaustubhMaladkar)
