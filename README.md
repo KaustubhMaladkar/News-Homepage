@@ -61,13 +61,9 @@ I would like to continue learning about CSS transitions, transforms and grid-are
 
 -   [Stack Overflow Question on Navigation Bar Transitions](https://stackoverflow.com/questions/65742729/navigation-bar-transitions) - This question on Stack Overflow by [Micheal](https://stackoverflow.com/users/15008832/michael) answered by [bmdev](https://stackoverflow.com/users/14825873/bmdev) helped me implement my navigation bar transitions
 -   [Easily Structure your Layout with CSS Grid's 'grid-template-areas'](https://youtu.be/qTGbWfEEnKI) - This video by [DesignCourse](https://www.youtube.com/@DesignCourse) on YouTube helped me understand what 'grid-areas' are and how to use them. Without the knowledge of this, I would just have used multiple flex-containers
+-   [ChatGPT](https://openai.com/blog/chatgpt/) - This chatbot created by OpenAI is more than just a chatbot. It can debug code like a pro. During the project, when I had any issue, the first thing I did was ask this thing about the issue. Even though it is not completely accurate, it certainly is useful.
 
 ## Author
 
--   Website - [Add your name here](https://www.your-site.com)
--   Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
--   Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-```
-
-```
+-   Discord - [@KaustubhMaladkar](https://discord.com/users/879677662795280445)
+-   Frontend Mentor - [@KaustubhMaladkar](https://www.frontendmentor.io/profile/KaustubhMaladkar)
